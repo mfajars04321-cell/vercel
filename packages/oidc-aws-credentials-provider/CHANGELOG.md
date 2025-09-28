@@ -1,5 +1,12 @@
 # @vercel/oidc
 
+## 3.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`6661ea2ac385704601124e7ebe7596dcf95f0cc8`](https://github.com/vercel/vercel/commit/6661ea2ac385704601124e7ebe7596dcf95f0cc8)]:
+  - @vercel/oidc@3.0.1
+
 ## 3.0.0
 
 ### Major Changes

@@ -1,5 +1,11 @@
 # @vercel/oidc
 
+## 3.0.1
+
+### Patch Changes
+
+- feat(oidc): export `getContext()` method ([#14004](https://github.com/vercel/vercel/pull/14004))
+
 ## 3.0.0
 
 ### Major Changes
